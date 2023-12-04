@@ -13,3 +13,6 @@
 [submodule "Authentication-test"]
 	path = Authentication-test
 	url = https://github.com/Arpit-Khandelwal/Authentication-test
+[submodule "NetNinja-MERN-Stack-Crash-Course-Tutorial"]
+	path = NetNinja-MERN-Stack-Crash-Course-Tutorial
+	url = https://github.com/arpit-khandelwal/NetNinja-MERN-Stack-Crash-Course-Tutorial
