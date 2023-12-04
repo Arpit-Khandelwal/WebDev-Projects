@@ -1,0 +1,15 @@
+[submodule "typing-game"]
+	path = typing-game
+	url = https://github.com/Arpit-Khandelwal/typing-game
+[submodule "todoList-v1"]
+	path = todoList-v1
+	url = https://github.com/Arpit-Khandelwal/todoList-v1
+[submodule "Newsletter"]
+	path = Newsletter
+	url = https://github.com/Arpit-Khandelwal/Newsletter
+[submodule "Express-docs"]
+	path = Express-docs
+	url = https://github.com/Arpit-Khandelwal/Express-docs
+[submodule "NetNinja-MERN-Stack-Crash-Course-Tutorial"]
+	path = NetNinja-MERN-Stack-Crash-Course-Tutorial
+	url = https://github.com/Arpit-Khandelwal/NetNinja-MERN-Stack-Crash-Course-Tutorial
