@@ -10,6 +10,6 @@
 [submodule "Express-docs"]
 	path = Express-docs
 	url = https://github.com/Arpit-Khandelwal/Express-docs
-[submodule "NetNinja-MERN-Stack-Crash-Course-Tutorial"]
-	path = NetNinja-MERN-Stack-Crash-Course-Tutorial
-	url = https://github.com/Arpit-Khandelwal/NetNinja-MERN-Stack-Crash-Course-Tutorial
+[submodule "Authentication-test"]
+	path = Authentication-test
+	url = https://github.com/Arpit-Khandelwal/Authentication-test
